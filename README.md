@@ -10,7 +10,9 @@ This repo is designed to demonstrate how to handle big data export in a scalable
 - Step-by-step documentation
 
 ### Queeck Start
-git clone https://github.com/jsupskills/Big-Data-Export-to-PDF.git
-cd your-repo-name
-npm install
-node index.js
+
+[Handling Big Data Export to PDF in Node.js: A Scalable Solution](https://jsupskills.dev/big-data-export-to-pdf-in-node-js/)
+[Visit jsupskills.dev](https://jsupskills.dev)
+
+
+
