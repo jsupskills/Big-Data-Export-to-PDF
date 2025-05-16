@@ -11,8 +11,9 @@ This repo is designed to demonstrate how to handle big data export in a scalable
 
 ### Queeck Start
 
-[Handling Big Data Export to PDF in Node.js: A Scalable Solution](https://jsupskills.dev/big-data-export-to-pdf-in-node-js/)
-[Visit jsupskills.dev](https://jsupskills.dev)
+- [Handling Big Data Export to PDF in Node.js: A Scalable Solution](https://jsupskills.dev/big-data-export-to-pdf-in-node-js/)
+
+- [Visit jsupskills.dev](https://jsupskills.dev)
 
 
 
